@@ -1,0 +1,28 @@
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\Amazing Charts Sample Application.exe
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\Amazing Charts Sample Application.deps.json
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\Amazing Charts Sample Application.runtimeconfig.json
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\Amazing Charts Sample Application.runtimeconfig.dev.json
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\Amazing Charts Sample Application.dll
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\Amazing Charts Sample Application.pdb
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing Charts Sample Application.csproj.AssemblyReference.cache
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing Charts Sample Application.csproj.GenerateResource.cache
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing Charts Sample Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing Charts Sample Application.AssemblyInfoInputs.cache
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing Charts Sample Application.AssemblyInfo.cs
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing Charts Sample Application.csproj.CoreCompileInputs.cache
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing Charts Sample Application.dll
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\ref\Amazing Charts Sample Application.dll
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing Charts Sample Application.pdb
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing Charts Sample Application.genruntimeconfig.cache
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing_Charts_Sample_Application.ContactForm.resources
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing_Charts_Sample_Application.Properties.Resources.resources
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\refint\Amazing Charts Sample Application.dll
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing Charts Sample Application.csproj.CopyComplete
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing_Charts_Sample_Application.App.resources
+C:\Users\yurad\source\repos\Amazing Charts Sample Application\Amazing Charts Sample Application\obj\Debug\net5.0-windows\Amazing_Charts_Sample_Application.ContactDetail.resources
