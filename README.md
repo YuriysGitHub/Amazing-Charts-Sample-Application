@@ -1,5 +1,5 @@
 # Contacts-Application
-Simple Contact Application with CRUD capabilities created to learn more about .NET and Windows Forms
+Personal project to increase knowledge of C#/.Net/Winforms. The application that allows user to add, modify and delete contacts.  Also contacts can be imported and exported with an XLM file.
 
 
 
